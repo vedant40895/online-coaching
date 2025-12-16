@@ -128,7 +128,7 @@ export default function DietPlans() {
                   </ul>
                 </div>
 
-                <button className="w-full bg-primary-600 hover:bg-primary-700 text-white font-semibold py-3 rounded-lg transition-colors">
+                <button className="w-full bg-primary-600 hover:bg-primary-700 text-black font-semibold py-3 rounded-lg transition-colors">
                   Get This Plan
                 </button>
               </div>
